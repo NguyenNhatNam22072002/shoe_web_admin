@@ -21,8 +21,8 @@ Future<void> main() async {
             projectId: "shoe-shop-3ef3a",
             storageBucket: "shoe-shop-3ef3a.appspot.com",
             messagingSenderId: "44906539150",
-            appId: "1:44906539150:web:75a9f2af08a634829c01df",
-            measurementId: "G-SXZE9S1DQE")
+            appId: "1:44906539150:web:7425e0b24b12c17d9c01df",
+            measurementId: "G-60RX9TK6XN")
         : null,
   );
   runApp(const MyApp());
